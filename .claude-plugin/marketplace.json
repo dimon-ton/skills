@@ -40,8 +40,17 @@
         "./skills/web-artifacts-builder",
         "./skills/webapp-testing"
       ]
-    }
-    ,
+    },
+    {
+      "name": "character-sheet-skills",
+      "description": "Character sheet workflow skills for designing reusable character systems and applying existing sheets without identity drift",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./skills/character-sheet-design",
+        "./skills/use-character-sheet"
+      ]
+    },
     {
       "name": "claude-api",
       "description": "Claude API and SDK documentation skill for building LLM-powered applications",
