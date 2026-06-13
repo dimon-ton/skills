@@ -1,0 +1,4 @@
+interface:
+  display_name: "Meena Ruangthong"
+  short_description: "Create consistent fictional Meena content"
+  default_prompt: "Use $meena-ruangthong to draft a persona-consistent image prompt for Meena Ruangthong with stable identity, outfit, pose, and rural Thai lifestyle setting."
